@@ -129,9 +129,15 @@ Variation Points:
 
 - Specify the data required for the system using UML class diagrams.
 
+![UML class diagram](./diagrams/UMLclass.png)
+
 - Specify system operation and interaction using a use case diagram.
 
+![Use case diagram](./diagrams/usecase.png)
+
 - Represent one example of information flow through the system using UML activity diagrams.
+
+![UML activity diagram](./diagrams/UMLactivity.png)
 
 
 ## Specification
@@ -299,6 +305,7 @@ A checklist is an assurance that the document is inspected, and it also provides
 
 ### Traceability matrix
 
+![Traceability matrix](./diagrams/matrix.png)
 
 ## Security
 
